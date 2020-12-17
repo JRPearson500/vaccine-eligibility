@@ -1,4 +1,5 @@
 # Table of contents
 
 * output
-  * [output\Study_Analysis.html](output\Study_Analysis.html)
+  * [output/descriptives.html](output/descriptives.html)
+  * [output/Study_Analysis.html](output/Study_Analysis.html)
